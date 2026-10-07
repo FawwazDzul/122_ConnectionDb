@@ -10,3 +10,6 @@ app.use(
      extended: true 
     })
 )
+const pool = new Pool({
+
+})
